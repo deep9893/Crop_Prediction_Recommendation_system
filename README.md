@@ -18,9 +18,14 @@ rainfall - rainfall in mm
 
 
 # clone the git 
-1- activate env
-2- install requirements.txt
-3- run app.py 
-4- open localhost :5000
-5- input the value
-6- predict and see the result
+1- **activate env
+
+2- **install requirements.txt
+
+3- **run app.py 
+
+4- **open localhost :5000
+
+5- **input the value
+
+6- **predict and see the result
