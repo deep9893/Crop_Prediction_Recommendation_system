@@ -12,6 +12,7 @@ model =  pickle.load(open('rfc.pkl','rb'))
 def home():
     return render_template('index.html')
 
+
 @app.route('/predict', methods=['POST'])
 def predict():
     # Retrieve the input data from the form
@@ -26,7 +27,8 @@ def predict():
     prediction = model.predict(input_array)
 
     # Process the prediction or return it to the user
-    return f"The predicted output is: {prediction[0]}"
+    # return f"The predicted output is: {prediction[0]}"
+    return render_template('results.html',result = prediction[0])
 
 if __name__ == '__main__':
     app.run(debug=True)
