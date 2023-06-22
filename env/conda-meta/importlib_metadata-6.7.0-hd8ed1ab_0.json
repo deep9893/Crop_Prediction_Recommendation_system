@@ -1,0 +1,36 @@
+{
+  "build": "hd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "importlib-metadata >=6.7.0,<6.7.1.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\deepp\\.conda\\pkgs\\importlib_metadata-6.7.0-hd8ed1ab_0",
+  "features": "",
+  "files": [],
+  "fn": "importlib_metadata-6.7.0-hd8ed1ab_0.conda",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\deepp\\.conda\\pkgs\\importlib_metadata-6.7.0-hd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "27a4cec373ec84d1c1aa02a1e37f8eaf",
+  "name": "importlib_metadata",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\deepp\\.conda\\pkgs\\importlib_metadata-6.7.0-hd8ed1ab_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f46d34a06e63f220dd04f7ac211dd2b4812b6b8a9e851467cd2e0218174d2dfd",
+  "size": 9467,
+  "subdir": "noarch",
+  "timestamp": 1687138535485,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-6.7.0-hd8ed1ab_0.conda",
+  "version": "6.7.0"
+}

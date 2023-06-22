@@ -1,0 +1,10 @@
+[ 2023-06-22 15:02:54,409 ] 22 root - INFO - data ingestion started
+[ 2023-06-22 15:02:54,409 ] 26 root - INFO - data reading using pandas library from local system
+[ 2023-06-22 15:02:54,440 ] 28 root - INFO - data reading completed
+[ 2023-06-22 15:02:54,472 ] 32 root - INFO - data splited into train test
+[ 2023-06-22 15:02:54,536 ] 39 root - INFO - data ingestion completed
+[ 2023-06-22 15:02:54,584 ] 85 root - INFO - outlier capped on our train data
+[ 2023-06-22 15:02:54,631 ] 90 root - INFO - outlier capped on our test data
+[ 2023-06-22 15:02:54,631 ] 29 root - INFO -  Data Transformation Started
+[ 2023-06-22 15:02:54,631 ] 97 root - INFO - splitting train data into dependent & independent features
+[ 2023-06-22 15:02:54,631 ] 101 root - INFO - splitting test data into dependent & independent features

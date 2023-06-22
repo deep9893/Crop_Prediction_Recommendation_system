@@ -1,0 +1,12 @@
+prefix=d:/Codebook/Crop_prediction/env/Library
+exec_prefix=d:/Codebook/Crop_prediction/env/Library
+libdir=d:/Codebook/Crop_prediction/env/Library/lib
+includedir=d:/Codebook/Crop_prediction/env/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 
