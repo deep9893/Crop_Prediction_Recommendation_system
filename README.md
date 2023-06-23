@@ -24,14 +24,17 @@ rainfall - rainfall in mm
 
 
 # clone the git 
-1- **activate env
 
-2- **install requirements.txt
+1- **activate env**
 
-3- **run app.py 
+2- **install requirements.txt**
+
+3- **run app.py** 
 
 4- **open localhost :5000
 
-5- **input the value
+5- **input the value**
 
-6- **predict and see the result
+6- **predict and see the result**
+
+this is complete end to end ci/cd pipeline project
